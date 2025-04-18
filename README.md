@@ -166,6 +166,16 @@ Main dependencies:
 
 ---
 
+## 🎥 Project Presentation
+
+We’ve recorded a detailed walkthrough of the project, covering our motivation, methodology, model comparisons, and results.
+
+📺 **Watch the video here:**  
+[![YouTube Video](https://img.youtube.com/vi/cl-s5VzJd5g/0.jpg)](https://youtu.be/cl-s5VzJd5g)
+
+Or click the direct link: [https://youtu.be/cl-s5VzJd5g](https://youtu.be/cl-s5VzJd5g)
+
+---
 ## 📬 Contact
 
 For dataset requests or questions, feel free to contact:
